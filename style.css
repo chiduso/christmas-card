@@ -25,6 +25,7 @@ body {
   border-radius: 20px;
   background-image: url("chad-madden-SUTfFCAHV_A-unsplash.jpg");
   background-size: cover;
+  width: 720px;
 }
 
 .pic {
