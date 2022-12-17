@@ -1,0 +1,40 @@
+/* #FFFFFF
+#F9F6F7
+#FFE8D6
+#FF971D */
+@font-face {
+  src: url("Christmas\ Style\ TTF\ Personal.ttf");
+  font-family: Christmas;
+   
+}
+  
+
+
+body {
+ font-family: Christmas;
+ font-weight: 800;
+ text-align: center;
+ margin: 0px;
+}
+
+.card {
+  color: #fde780;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+  border-radius: 20px;
+  background-image: url("chad-madden-SUTfFCAHV_A-unsplash.jpg");
+  background-size: cover;
+}
+
+.pic {
+  margin: 10px;
+  width: 400px;
+  border-right: 4px  solid  #fde780;
+  border-bottom: 4px solid  #fde780;
+  border-radius: 10px;
+}
+
+span, p{
+  color: #F9F6F7;
+}
